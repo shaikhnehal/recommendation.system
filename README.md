@@ -1,9 +1,3 @@
-/*Create a function which takes three numbers "A" , "B" , "N" as a parameter.
-If the number N is 1 , ADD A and B
-If the number N is 2, SUBTRACT B from A
-If the number N is 3, MULTIPLY A and B
-If the number N is 4 , DIVIDE B from A
-if the given number "N"  is none from the above four numbers , return -1 */
 
 
 
