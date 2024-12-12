@@ -6,6 +6,7 @@ If the number N is 4 , DIVIDE B from A
 if the given number "N"  is none from the above four numbers , return -1 */
 
 
+
 public class problem_1 {
  public static int Homies(int A, int B, int N) {
         switch (N) {
