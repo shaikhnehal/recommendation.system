@@ -1,6 +1,3 @@
-
-
-
 public class problem_1 {
 
  public static int Homies(int A, int B, int N) {
